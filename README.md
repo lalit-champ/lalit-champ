@@ -1,4 +1,16 @@
+# 👋 Hi, I'm Lalit Mali
 
+🚀 **Full Stack Developer Intern @ Cynbit Technology**  
+🎓 **U.G. Student - Artificial Intelligence & Data Science, JECRC Foundation**  
+
+---
+
+## 💻 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Databases:** SQL, MongoDB
+- **Programming Languages:** C, C++, Python
+- **Others:** Video Editing, Git & GitHub
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ lalit-mali-048bb3275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitmalidz007@gmail.com) 
 
